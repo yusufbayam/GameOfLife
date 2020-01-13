@@ -9,5 +9,7 @@ How to run on Linux System:
 2. Run "mpirun -np M --oversubscribe python3 game.py input.txt output.txt T" command, where M is number of processors to run with and T is number of iterations for the game.
 
 Note that M should (i^2) + 1, where i is an even number.
+
 input.txt is input file which is a (N x N) 2-dimensional array.
+
 output.txt is output file which is a (N x N) 2-dimensional array.
