@@ -1,4 +1,4 @@
-#Mehmet Yusuf Bayam - 2015400249
+
 #Status : Compiling and Working
 #Implementation with Checkered Splits and Periodic
 
